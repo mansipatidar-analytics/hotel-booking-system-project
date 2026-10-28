@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro India — Luxury Hotel Booking & Management System",
+  "description": "India's premier 5-star hotel booking and management platform with INR (₹) tariffs, 18% GST (CGST + SGST) folios, instant UPI settlements, and comprehensive role governance across Udaipur, Goa, and Manali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
